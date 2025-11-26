@@ -35,7 +35,7 @@ Open up the code snippet below directly in the [p5.js Web Editor](https://editor
   }
 
   function draw() {
-    background(0);
+    background(#FFC0CB);
     // Draw the video
     image(flippedVideo, 0, 0);
 
